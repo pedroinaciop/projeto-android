@@ -1,4 +1,4 @@
-# Big Game Survey 
+# História do Android
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedroinaciop/projeto-android/blob/main/LICENSE) 
 
 # Sobre o projeto
