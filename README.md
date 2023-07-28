@@ -15,7 +15,7 @@ O Projeto Android é um projeto básico de HTML e CSS para aperfeiçoar minhas h
 ![Web 2](https://github.com/pedroinaciop/projeto-android/blob/main/assets/desktop-android-2.png)
 
 # Tecnologias utilizadas
-[![Minhas Habilidades](https://skillicons.dev/icons?i=vscode,html,css)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 # Autor
 
