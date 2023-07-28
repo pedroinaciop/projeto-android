@@ -1,13 +1,9 @@
-# Projeto hiustória do Android
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/pedroinaciop/projeto-android/blob/main/LICENSE) 
+# Big Game Survey 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-<<<<<<< HEAD
 https://wmazoni-sds1.netlify.app
-=======
-https://pedroinaciop.github.io/projeto-android/
->>>>>>> 2cc6b47903d90e01b7f0c6e4849f6af1a3580f0a
 
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
