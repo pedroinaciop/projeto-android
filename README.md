@@ -11,8 +11,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Layout mobile
 ![Mobile 1](https://github.com/pedroinaciop/projeto-android/blob/main/assets/mobile-android-1.png) 
-![Mobile 2](https://github.com/pedroinaciop/projeto-android/blob/main/assets/mobile-android-2.png)
-![Mobile 3](https://github.com/pedroinaciop/projeto-android/blob/main/assets/mobile-android-3.png)
+![Mobile 2](https://github.com/pedroinaciop/projeto-android/blob/main/assets/mobile-android-3.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
